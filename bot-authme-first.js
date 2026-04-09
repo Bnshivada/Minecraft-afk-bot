@@ -40,7 +40,7 @@ const config = {
       interval: 30000 // 30 seconds
     },
     chatMessages: {
-      enabled: false,
+      enabled: true,
       interval: 900000,
       messages: [
         'FeciSMP İyi Oyunlar Diler!',
